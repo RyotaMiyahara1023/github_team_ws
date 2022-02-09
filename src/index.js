@@ -82,7 +82,7 @@
 
 		switch(cont){
 			case "add":
-				ope.textContent = ("+");
+				ope.textContent = ("+"); //足す
 				break;
 			case "sub":
 				ope.textContent = ("-");
